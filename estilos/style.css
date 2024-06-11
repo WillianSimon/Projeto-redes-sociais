@@ -32,4 +32,16 @@ section#telefone{
     width: 311px;
     background-image: url(../imagens/frame-iphone.png);
     background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
+iframe#tela{
+    margin-top: 200px;
+    width: 267px;
+    height: 470px;
+    margin-bottom: 196px;
+}
+
+
